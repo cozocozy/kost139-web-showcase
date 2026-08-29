@@ -33,3 +33,10 @@ Aplikasi web promosi kost interaktif yang menghubungkan calon penyewa dan pemili
 *Data-Driven Highlights: Menyajikan kapasitas dan fasilitas utama kost (contoh: 70+ Kamar Tersedia, 24 jam Keamanan) dalam bentuk angka agar informasi terlihat valid dan transparan.<br>
 *Visual Icons & Numbers: Kombinasi ikon visual dan angka besar untuk mempermudah calon penyewa memindai (scanning) data kunci secara cepat.<br>
 *Responsive Grid Layout: Penataan elemen horizontal berbasis grid/flexbox yang rapi untuk meningkatkan keterbacaan (readability).
+
+### 3. Features Section
+<img width="921" height="430" alt="image" src="https://github.com/user-attachments/assets/875282b6-258b-46e0-aa7d-02948d804617" />
+*Section Header: Judul utama ("Kenapa Memilih...") dan sub-heading untuk menegaskan nilai tawar (Value Proposition) tempat kost.<br>
+*Responsive Feature Cards Grid: Tata letak grid 3 kolom berisi kartu-kartu (cards) yang otomatis menyesuaikan tampilan di perangkat mobile maupun desktop.<br>
+*Icon & Copywriting Hierarchy: Struktur visual yang rapi di setiap kartu, menggabungkan ikon visual, judul tebal, dan deskripsi singkat untuk keterbacaan (scannability) yang tinggi.<br>
+*Modular UI Components: Komponen kartu modular yang reusable untuk mempermudah penambahan atau pembaruan daftar fasilitas secara dinamis.

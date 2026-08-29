@@ -4,6 +4,7 @@
 
 ## 🌐 Live Demo & Link
 * **Live App:** [kost.139.my.id)
+  
 ## 👤 Peran & Workflow
 * **Peran:** Fullstack Engineer (Solo Project)
 * **Development Workflow:** AI-Assisted Development (Menggunakan Claude & Gemini untuk akselerasi coding, refactoring, dan optimasi arsitektur)
@@ -26,3 +27,9 @@ Aplikasi web promosi kost interaktif yang menghubungkan calon penyewa dan pemili
 *Secondary CTA: Tombol navigasi sekunder untuk melihat rincian informasi lebih lanjut.<br>
 *Floating Action Button (FAB): Widget WhatsApp mengambang di pojok kanan bawah agar selalu siap diakses pengguna.<br>
 *Navbar: Memudahkan navigasi cepat ke bagian halaman lain (Fasilitas, Galeri, Lokasi, dll).
+
+### 2. Stats Section
+<img width="950" height="191" alt="image" src="https://github.com/user-attachments/assets/6616f604-1019-4e8f-b411-14144b701428" />
+*Data-Driven Highlights: Menyajikan kapasitas dan fasilitas utama kost (contoh: 70+ Kamar Tersedia, 24 jam Keamanan) dalam bentuk angka agar informasi terlihat valid dan transparan.<br>
+*Visual Icons & Numbers: Kombinasi ikon visual dan angka besar untuk mempermudah calon penyewa memindai (scanning) data kunci secara cepat.<br>
+*Responsive Grid Layout: Penataan elemen horizontal berbasis grid/flexbox yang rapi untuk meningkatkan keterbacaan (readability).

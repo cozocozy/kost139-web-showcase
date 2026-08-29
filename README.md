@@ -40,3 +40,10 @@ Aplikasi web promosi kost interaktif yang menghubungkan calon penyewa dan pemili
 *Responsive Feature Cards Grid: Tata letak grid 3 kolom berisi kartu-kartu (cards) yang otomatis menyesuaikan tampilan di perangkat mobile maupun desktop.<br>
 *Icon & Copywriting Hierarchy: Struktur visual yang rapi di setiap kartu, menggabungkan ikon visual, judul tebal, dan deskripsi singkat untuk keterbacaan (scannability) yang tinggi.<br>
 *Modular UI Components: Komponen kartu modular yang reusable untuk mempermudah penambahan atau pembaruan daftar fasilitas secara dinamis.
+
+### 3. Features Section
+<img width="919" height="468" alt="image" src="https://github.com/user-attachments/assets/2eb48c13-2386-459a-9ee7-606ee244ddbd" />
+*Section Header & Authenticity Subtitle: Judul galeri yang dilengkapi keterangan transparansi ("Semua foto diambil langsung dari lokasi") untuk membangun kepercayaan calon penyewa.<br>
+*Responsive Image Grid: Layout grid 3 kolom yang memamerkan berbagai sudut properti (interior kamar, kamar mandi, dapur, dan lingkungan kost) secara rapi.<br>
+*Rounded UI Styling: Format gambar dengan sudut melengkung (rounded corners) dan ukuran seragam untuk menjaga tampilan antarmuka tetap bersih, rapi, dan modern.<br>
+*Visual Proof / Virtual Tour: Menyajikan dokumentasi visual riil sebagai pengganti survei fisik awal bagi prospective tenant.

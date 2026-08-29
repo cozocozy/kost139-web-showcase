@@ -18,7 +18,8 @@ Aplikasi web promosi kost interaktif yang menghubungkan calon penyewa dan pemili
 ## 📸 Tampilan & Fitur Utama
 
 ### 1. Hero Section
-<img width="925" height="493" alt="image" src="https://github.com/user-attachments/assets/899b94f3-b2ec-41ac-852f-3488ae966f2e" />
+<img width="927" height="490" alt="image" src="https://github.com/user-attachments/assets/14ffbb21-fb31-46fc-8385-d2fd25d72bf1" />
+
 *Hero Headline: Teks judul utama yang menyampaikan nilai jual produk (value proposition) dan lokasi strategis.
 *Feature Badges / Tags: Label ringkas untuk menampilkan spesifikasi & fasilitas utama secara instan.
 *Direct WhatsApp CTA (Primary): Tombol aksi utama untuk langsung mengarahkan calon penyewa ke percakapan WhatsApp.

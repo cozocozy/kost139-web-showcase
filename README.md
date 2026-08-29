@@ -53,3 +53,22 @@ Aplikasi web promosi kost interaktif yang menghubungkan calon penyewa dan pemili
 *Interactive Google Maps Embed: Integrasi peta interaktif Google Maps (lazy-loaded) untuk memudahkan calon penyewa melihat navigasi lokasi secara langsung.<br>
 *Nearby POIs & Distance Badges: Daftar tempat strategis terdekat (seperti kampus UNEJ, tempat makan, dan percetakan) lengkap dengan indikator jarak (badge) untuk menegaskan nilai strategis lokasi.<br>
 *External Navigation CTA: Tombol pintasan "Buka di Google Maps" untuk mengarahkan pengguna langsung ke aplikasi pemetaan bawaan perangkat mereka.<br>
+
+### 6. CTA and Footer Section
+<img width="812" height="376" alt="image" src="https://github.com/user-attachments/assets/36ed9e82-19b5-45ec-b265-2a38b13e428d" />
+*Conversion-Focused CTA Banner: Blok penutup persuasif ("Mau Tinggal Disini?") untuk mendorong calon penyewa mengambil tindakan di akhir penjelajahan halaman.<br>
+*Footer Component: Kaki halaman berisi ringkasan identitas merek (branding), alamat fisik, jam operasional layanan, dan tautan media sosial resmi.
+
+## 📄 License
+
+Project ini dibuat untuk kebutuhan portofolio / komersial dan dilindungi di bawah lisensi [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author & Contact
+
+Dikembangkan oleh **Septian Hadi Prakoso**
+
+* **GitHub:** [@cozocozy](https://github.com/cozocozy)
+* **LinkedIn:** [Septian Hadi Prakoso](https://www.linkedin.com/in/septian-hadi-prakoso-632446243)
+* **Email:** septianhadipdev.com

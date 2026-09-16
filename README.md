@@ -1,4 +1,4 @@
-# 🚀 [Kost-139 Website]
+# 🚀 (Kost-139 Website)
 
 > **Catatan:** Repository ini khusus memuat dokumentasi, arsitektur, dan demo visual. Source code utama bersifat private karena alasan kerahasiaan/lisensi.
 
@@ -71,4 +71,4 @@ Dikembangkan oleh **Septian Hadi Prakoso**
 
 * **GitHub:** [@cozocozy](https://github.com/cozocozy)
 * **LinkedIn:** [Septian Hadi Prakoso](https://www.linkedin.com/in/septian-hadi-prakoso-632446243)
-* **Email:** septianhadipdev.com
+* **Email:** septianhadipdev@gmail.com

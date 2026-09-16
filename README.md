@@ -1,9 +1,9 @@
-# 🚀 [KOST 139 WEBSITE](https://kost139.my.id)
+# 🚀 KOST 139 WEBSITE
 
 > **Catatan:** Repository ini khusus memuat dokumentasi, arsitektur, dan demo visual. Source code utama bersifat private karena alasan kerahasiaan/lisensi.
 
 ## 🌐 Live Demo & Link
-* **Live App:** [kost.139.my.id]
+* **Live App:** [KOST 139 WEBSITE](https://kost139.my.id)
   
 ## 👤 Peran & Workflow
 * **Peran:** Fullstack Engineer (Solo Project)

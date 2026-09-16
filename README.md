@@ -1,4 +1,4 @@
-# 🚀 (Kost-139 Website)
+# 🚀 [KOST 139 WEBSITE](https://kost139.my.id)
 
 > **Catatan:** Repository ini khusus memuat dokumentasi, arsitektur, dan demo visual. Source code utama bersifat private karena alasan kerahasiaan/lisensi.
 
